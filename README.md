@@ -9,6 +9,10 @@ Work in progress. Star this repository and stay tuned to find out more!
 2. [Kailash Gautham](https://github.com/kailashgautham)
 3. [Wilson Widyadhana](https://github.com/wilsonwid)
 
+## Running instructions
+1. Create a virtual environment named `env` by running `python3 -m venv env` in your terminal from this project's main directory, and then activate it using `source env/bin/activate`.
+    - To deactivate the virtual environment, run `deactivate`.
+2. Install all necessary packages with `pip install -r requirements.txt` while in the virtual environment.
+
 ## References
 1. [Retrieving Full Historical Data for Every Cryptocurrency on Binance & Bitmex Using the Python APIs](https://medium.com/swlh/retrieving-full-historical-data-for-every-cryptocurrency-on-binance-bitmex-using-the-python-apis-27b47fd8137f)
-2. 
